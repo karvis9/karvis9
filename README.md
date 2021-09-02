@@ -23,3 +23,5 @@ of Apache Beam, Flink, Java, ReactJS, SpringBoot, Slang, MongoDB, Git and DB-2. 
 I've also focussed on the efficient design of systems, scalability and fault tolerance of applications.
 In this role, I've also led teams of new Analyst and Interns in successful delivery of end to end self service tools and data management platforms
 for various business use cases. In the Past I've also Interened at the Risk Division of JP Morgan.
+
+-New Account , Old one is inaccessible.
