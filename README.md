@@ -2,7 +2,9 @@
 
 👀 I’m interested in Software Engineering, Distributed Systems, Machine Learning, AI and NLP.
 
-🌱 I’m currently learning Deep Learning, ML, Databases, Analysis of Algorithms and Neural Networks.
+🌱 I’m currently Studying Deep Learning, ML, Databases, Analysis of Algorithms and Neural Networks.
+
+🌱 I’m currently a Graduate Teaching Assistant (Course Producer) for Prof. Sven Koenig at USC ( For the Artifical Intelligence Course).
 
 💞️ I’m looking to collaborate on ML/AI/NLP , Psychology/Economics.
 
