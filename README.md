@@ -2,9 +2,7 @@
 
 👀 I’m interested in Software Engineering, Distributed Systems, Machine Learning, AI and NLP.
 
-🌱 I’m currently Studying Deep Learning, ML, Databases, Analysis of Algorithms and Neural Networks.
-
-🌱 I’m currently a Graduate Teaching Assistant (Course Producer) for Prof. Sven Koenig at USC ( For the Artifical Intelligence Course).
+🌱 I’m currently a Graduate Teaching Assistant (Course Producer) for Prof. Rajati at USC ( For the Machine Learning Course). In the past I was a TA for DSCI 510 (Principles of Programming Languages) for Prof. Ambite and Intro to AI (Course Producer) for Prof. Sven Koenig in Fall-21.
 
 💞️ I’m looking to collaborate on ML/AI/NLP , Psychology/Economics.
 
@@ -16,14 +14,11 @@
 
 📫 MY ACM ICPC Results : https://icpc.global/ICPCID/ZZU3971LB11T
 
-WORK EXPERIENCE : I started out as an Analyst (Full Stack Developer) at Goldman Sachs in the Strategic Services team. 
-In this role I Collaborated with teams from New York and Tokyo in building the strategic delivery engine and 
+WORK EXPERIENCE : In the summer of 2022, I interened at Amazon, in the ECFI payments org, where I worked on building the orchestrator service which handles 17 million redrives of remittances and transactions in under 15 mins using AWS Lambda, Herd, S3 , DynamoDB , Dagger and Java.
+Prior to this I was at Goldman Sachs in the Strategic Services team, building the strategic delivery engine and 
 Distributed Repository Architecture handling all the reporting requirements of the Asset Management Business. 
 My projects also included the buildout of CI/CD pipelines, re- engineering legacy tools, front end development 
 using ReactJS, building data pipelines for reporting, and developing backend services. My primary tech stack comprised 
-of Apache Beam, Flink, Java, ReactJS, SpringBoot, Slang, MongoDB, Git and DB-2. Post my promotion to an Associate, 
-I've also focussed on the efficient design of systems, scalability and fault tolerance of applications.
-In this role, I've also led teams of new Analyst and Interns in successful delivery of end to end self service tools and data management platforms
-for various business use cases. In the Past I've also Interened at the Risk Division of JP Morgan.
+of Apache Beam, Flink, Java, ReactJS, SpringBoot, Slang, MongoDB, and DB-2. In the Past I've also Interened at the Risk Division of JP Morgan Chase.
 
--New Account , Old one is inaccessible.
+- Note : This is a New Account , Old one is inaccessible.
