@@ -2,7 +2,9 @@
 
 👀 I’m interested in Software Engineering, Distributed Systems, Machine Learning, AI and NLP.
 
-🌱 I’m currently a Graduate Teaching Assistant (Course Producer) for Prof. Rajati at USC ( For the Machine Learning Course). In the past I was a TA for DSCI 510 (Principles of Programming Languages) for Prof. Ambite and Intro to AI (Course Producer) for Prof. Sven Koenig in Fall-21.
+🌱 I’m currently a Course Producer for Prof. Rajati at USC ( DS Machine Learning Course). In the past I was a Teaching Assistant for DSCI 510 (Principles of Programming Languages) for Prof. Ambite and Intro to AI (Course Producer) for Prof. Sven Koenig in Fall-21.
+
+🌱 Past Work Ex : Amazon, Goldman Sachs and JP Morgan Chase.
 
 💞️ I’m looking to collaborate on ML/AI/NLP , Psychology/Economics.
 
