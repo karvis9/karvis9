@@ -2,7 +2,9 @@
 
 👀 I’m interested in Software Engineering, Distributed Systems, Machine Learning, AI and NLP.
 
-🌱 I’m currently a Course Producer for Prof. Rajati at USC ( DS Machine Learning Course). In the past I was a Teaching Assistant for DSCI 510 (Principles of Programming Languages) for Prof. Ambite and Intro to AI (Course Producer) for Prof. Sven Koenig in Fall-21.
+🌱 I’ll be starting a new position as a research intern at Intel, Santa Clara.
+
+🌱 In the past I was a Teaching Assistant for DSCI 510 (Principles of Programming Languages) for Prof. Ambite, Course Producer for Prof. Rajati at USC (      DS Machine Learning Course) and Intro to AI (Course Producer) for Prof. Sven Koenig in Fall-21.
 
 🌱 Past Work Ex : Amazon, Goldman Sachs and JP Morgan Chase.
 
