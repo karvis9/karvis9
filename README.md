@@ -2,7 +2,7 @@
 
 👀 I’m interested in Software Engineering, Distributed Systems, Machine Learning, AI and NLP.
 
-🌱 I’m currently a research intern at Intel, Santa Clara.
+🌱 I’m currently an intern at Intel, Santa Clara.
 
 🌱 In the past I was a Teaching Assistant for DSCI 510 (Principles of Programming Languages) for Prof. Ambite, Course Producer for Prof. Rajati at USC (      DS Machine Learning Course) and Intro to AI (Course Producer) for Prof. Sven Koenig in Fall-21.
 
