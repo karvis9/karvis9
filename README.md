@@ -8,7 +8,7 @@
 
 🌱 Past Work Ex : Amazon, Goldman Sachs and JP Morgan Chase.
 
-💞️ I’m looking to collaborate on ML/AI/NLP , Psychology/Economics.
+💞️ I’m looking to collaborate on ML/NLP , Psychology/Economics.
 
 📫 How to reach me : karanam@usc.edu or My Linkedin : https://www.linkedin.com/in/vishal-kartik-a776b9b3/
 
