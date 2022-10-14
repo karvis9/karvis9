@@ -1,4 +1,4 @@
-👋 Hi, I’m @karvis94 (Vishal)
+👋 Hi, I’m Vishal.
 
 👀 I’m interested in Software Engineering, Distributed Systems, Machine Learning, AI and NLP.
 
