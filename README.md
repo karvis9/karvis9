@@ -2,11 +2,11 @@
 
 👀 I’m interested in Software Engineering, Distributed Systems, Machine Learning, AI and NLP.
 
-🌱 I’m currently an intern at Intel, Santa Clara.
+🌱 I’m currently a Software Engineer at Intel, Santa Clara.
 
-🌱 In the past I was a Teaching Assistant for DSCI 510 (Principles of Programming Languages) for Prof. Ambite, Course Producer for Prof. Rajati at USC (      DS Machine Learning Course) and Intro to AI (Course Producer) for Prof. Sven Koenig in Fall-21.
+🌱 In the past I was a Teaching Assistant for DSCI 510 (Principles of Programming Languages) for Prof. Ambite, Course Producer for Prof. Rajati at USC (DS Machine Learning Course) and Intro to AI (Course Producer) for Prof. Sven Koenig in Fall-21.
 
-🌱 Past Work Ex : Amazon, Goldman Sachs and JP Morgan Chase.
+🌱 Past Work Ex : Amazon (Seattle), Goldman Sachs (NY and BLR) and JP Morgan Chase.
 
 💞️ I’m looking to collaborate on ML/NLP , Psychology/Economics.
 
@@ -18,7 +18,7 @@
 
 📫 MY ACM ICPC Results : https://icpc.global/ICPCID/ZZU3971LB11T
 
-WORK EXPERIENCE : In the summer of 2022, I interened at Amazon, in the ECFI payments org, where I worked on building the orchestrator service which handles 17 million redrives of remittances and transactions in under 15 mins using AWS Lambda, Herd, S3 , DynamoDB , Dagger and Java.
+WORK EXPERIENCE : At Amazon, in the ECFI payments org, I worked on building the orchestrator service which handles 17 million redrives of remittances and transactions in under 15 mins using AWS Lambda, Herd, S3 , DynamoDB , Dagger and Java.
 Prior to this I was at Goldman Sachs in the Strategic Services team, building the strategic delivery engine and 
 Distributed Repository Architecture handling all the reporting requirements of the Asset Management Business. 
 My projects also included the buildout of CI/CD pipelines, re- engineering legacy tools, front end development 
